@@ -34,6 +34,12 @@ This project demonstrates a complete CI/CD pipeline for a Flask application usin
 
 <img width="940" height="381" alt="image" src="https://github.com/user-attachments/assets/7bacda66-4789-46bd-b43e-f7112190f8f2" />
 
+After updating Readme file 
+
+<img width="1912" height="847" alt="image" src="https://github.com/user-attachments/assets/af6273d8-afe2-4734-95fc-f85948305708" />
+
+<img width="1902" height="907" alt="image" src="https://github.com/user-attachments/assets/466c6ffd-bde8-48b2-8801-2f35c56f683f" />
+
 
 ---
 
